@@ -396,7 +396,7 @@ repartan equitativamente en esa vuelta, debes dividir 360 entre 20.
 
 <img width="1920" height="1080" alt="Captura de pantalla (92)" src="https://github.com/user-attachments/assets/94b7bdad-f843-420f-a6fc-bae506b2e367" />
 
-Codigo completo:
+Codigo modificado:
 ```
 paso_angular = 18 # Cada 18 grados para obtener 20 círculos alrededor
 ```
